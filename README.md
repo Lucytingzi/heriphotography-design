@@ -1,10 +1,6 @@
-# heriphotography-design
+# sharePhoto-design
 
-Integration work for heriphotography app
-
-Design for one listing with title, description, features, media (video or photo), and button
-
-Navigation bar 
+design and integration work for one page with title, description, features, media (video or photo), and button
 
 Responsive design (desktop, tablet, phone) for layout 
 
